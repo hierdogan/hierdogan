@@ -21,7 +21,7 @@ I’m a data analyst from Ankara, Türkiye. Currently, I am working as a Teachin
 
 I'm a semi-professional photographer, I love to read and study history. I'm also one of the founders of the cinema blog, Fikirsinema, and I love watching movies, scribbling on cinema and chatting.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hierdogan]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hierdogan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hierdogan) 
 [![WebSite](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://hierdogan.com)
 
