@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-About me
+
 I’m a data analyst from Ankara, Türkiye. Currently, I am working as a Teaching Assistant within the scope of Data Analyst Bootcamp organized by Miuul and Veri Bilimi Okulu. I have spent the majority of my career as a digital marketing and social media analyst. I wanted to pursue my career in data science and joined Miuul Data Analyst Bootcamp in February 2023. In the next semester of the program I graduated from in June, I was selected as Teaching Assistant and started to share my achievements with new participants.
 
 I'm a semi-professional photographer, I love to read and study history. I'm also one of the founders of the cinema blog, Fikirsinema, and I love watching movies, scribbling on cinema and chatting.
