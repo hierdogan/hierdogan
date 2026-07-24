@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # About Me
 
-I’m a data analyst from Ankara, Türkiye. Currently, I am working as a Teaching Assistant within the scope of Data Analyst Bootcamp organized by Miuul and Veri Bilimi Okulu. I have spent the majority of my career as a digital marketing and social media analyst. I wanted to pursue my career in data science and joined Miuul Data Analyst Bootcamp in February 2023. In the next semester of the program I graduated from in June, I was selected as Teaching Assistant and started to share my achievements with new participants.
+Perakende, e-ticaret ve turizm sektörlerinde SQL ve Power BI ağırlıklı analitik ve raporlama projelerinde çalışmış bir Data Analyst'im. Uçtan uca veri modelleme, dashboard geliştirme ve iş birimlerine yönelik raporlama süreçlerinde deneyimliyim. MIUUL bünyesinde hem danışmanlık projelerinde hem de eğitim programlarında aktif rol alarak, veri odaklı karar alma süreçlerine hem uygulayıcı hem aktarıcı olarak katkı sağlıyorum.
 
-I'm a semi-professional photographer, I love to read and study history. I'm also one of the founders of the cinema blog, Fikirsinema, and I love watching movies, scribbling on cinema and chatting.
+İlgi Alanları: BI Development, Data Analytics, HR Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hierdogan) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hierdogan) 
@@ -32,11 +32,7 @@ I'm a semi-professional photographer, I love to read and study history. I'm also
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
+[![Power BI](https://img.shields.io/badge/Power_BI?style=flat&logoColor=F2C811)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 
